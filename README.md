@@ -1,3 +1,8 @@
+AI_Shirt_Designer is a web application that lets users design and preview custom shirts using DALL-E and 3D technology. With this app, users can input any text they want and have DALL-E generate unique designs based on their input. Users can also choose from a variety of shirt colors and styles to customize their design further.  Once a design is created, users can see it in real-time on a 3D shirt model, which allows them to view their creation from every angle. This makes it easier to make any necessary changes or modifications before placing an order.  
+
+The app is built using modern web technologies, including React and Three.js, and is hosted on GitHub Pages. It also utilizes the DALL-E API to generate the designs, which allows for a seamless and efficient user experience.  Whether you're looking to create a one-of-a-kind shirt for yourself or for your business, AI_Shirt_Designer is the perfect tool for bringing your ideas to life.
+
+
 
 ## Client folder
 1. npm create vite@latest -- --template react client
